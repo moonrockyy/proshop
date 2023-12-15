@@ -27,3 +27,5 @@ uploads/*jpg
 
 # API tests
 http
+
+package-lock.json
