@@ -52,4 +52,4 @@ $ npm run data:destroy
 
 ## License 📜
 
-`Proshop` is available under the MIT license. See the LICENSE file for more info.
+`Proshop` is available under the MIT license.
