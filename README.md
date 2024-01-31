@@ -7,7 +7,7 @@ crafted with <span style="color: #8b0000;">&hearts;</span> by <a href="https://m
 <p align="center">
     <img src="https://img.shields.io/badge/version-1.0.0-yellowgreen" alt="version 1.0.0"/>
     <img src="https://img.shields.io/badge/license-MIT-brightgreen" alt="license MIT"/>
-    <img src="https://img.shields.io/badge/author-Harsh%20Goel-orange" alt="author Moonrockyy"/>
+    <img src="https://img.shields.io/badge/author-moonrockyy-orange" alt="author Moonrockyy"/>
 </p>
 
 > Proshop Ecommerce Website built with MERN Stack.
